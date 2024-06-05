@@ -37,7 +37,7 @@ class SocialLogin extends StatelessWidget {
                             blurRadius: 10),
                       ]),
                   child: SvgPicture.asset(
-                    "images/jeans.svg",
+                    "assets/images/jeans.svg",
                     height: 30,
                   ),
                 ),
@@ -58,7 +58,7 @@ class SocialLogin extends StatelessWidget {
                             blurRadius: 10),
                       ]),
                   child: SvgPicture.asset(
-                    "images/shirt.svg",
+                    "assets/images/shirt.svg",
                     height: 30,
                   ),
                 ),
@@ -79,7 +79,7 @@ class SocialLogin extends StatelessWidget {
                             blurRadius: 10),
                       ]),
                   child: SvgPicture.asset(
-                    "images/shoe.svg",
+                    "assets/images/shoe.svg",
                     height: 30,
                   ),
                 ),
